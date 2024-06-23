@@ -1,0 +1,542 @@
+<xml-fragment
+		xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:o="urn:schemas-microsoft-com:office:office"
+		xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+		xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+		xmlns:v="urn:schemas-microsoft-com:vml"
+		xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+		xmlns:w10="urn:schemas-microsoft-com:office:word"
+		xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+		xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+		xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main"
+		xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+		xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture"
+		xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart"
+		xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas"
+		xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram"
+		xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
+		xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+		xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+		xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml">
+	<w:body>
+		<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="00000001">
+			<w:pPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">{!!Text in Paragraph}</w:t>
+			</w:r>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="Table1"/>
+				<w:tblW w:w="9360.0" w:type="dxa"/>
+				<w:jc w:val="left"/>
+				<w:tblBorders>
+					<w:top w:color="000000" w:space="0" w:sz="8" w:val="single"/>
+					<w:left w:color="000000" w:space="0" w:sz="8" w:val="single"/>
+					<w:bottom w:color="000000" w:space="0" w:sz="8" w:val="single"/>
+					<w:right w:color="000000" w:space="0" w:sz="8" w:val="single"/>
+					<w:insideH w:color="000000" w:space="0" w:sz="8" w:val="single"/>
+					<w:insideV w:color="000000" w:space="0" w:sz="8" w:val="single"/>
+				</w:tblBorders>
+				<w:tblLayout w:type="fixed"/>
+				<w:tblLook w:val="0600"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="4680"/>
+				<w:gridCol w:w="4680"/>
+				<w:tblGridChange w:id="0">
+					<w:tblGrid>
+						<w:gridCol w:w="4680"/>
+						<w:gridCol w:w="4680"/>
+					</w:tblGrid>
+				</w:tblGridChange>
+			</w:tblGrid>
+			<w:tr>
+				<w:trPr>
+					<w:cantSplit w:val="0"/>
+					<w:tblHeader w:val="0"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:shd w:fill="auto" w:val="clear"/>
+						<w:tcMar>
+							<w:top w:w="100.0" w:type="dxa"/>
+							<w:left w:w="100.0" w:type="dxa"/>
+							<w:bottom w:w="100.0" w:type="dxa"/>
+							<w:right w:w="100.0" w:type="dxa"/>
+						</w:tcMar>
+						<w:vAlign w:val="top"/>
+					</w:tcPr>
+					<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="00000002">
+						<w:pPr>
+							<w:keepNext w:val="0"/>
+							<w:keepLines w:val="0"/>
+							<w:pageBreakBefore w:val="0"/>
+							<w:widowControl w:val="0"/>
+							<w:pBdr>
+								<w:top w:space="0" w:sz="0" w:val="nil"/>
+								<w:left w:space="0" w:sz="0" w:val="nil"/>
+								<w:bottom w:space="0" w:sz="0" w:val="nil"/>
+								<w:right w:space="0" w:sz="0" w:val="nil"/>
+								<w:between w:space="0" w:sz="0" w:val="nil"/>
+							</w:pBdr>
+							<w:shd w:fill="auto" w:val="clear"/>
+							<w:spacing w:after="0" w:before="0" w:line="240" w:lineRule="auto"/>
+							<w:ind w:left="0" w:right="0" w:firstLine="0"/>
+							<w:jc w:val="left"/>
+							<w:rPr/>
+						</w:pPr>
+						<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+							<w:rPr>
+								<w:rtl w:val="0"/>
+							</w:rPr>
+							<w:t xml:space="preserve">{!!1}</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="00000003">
+						<w:pPr>
+							<w:keepNext w:val="0"/>
+							<w:keepLines w:val="0"/>
+							<w:pageBreakBefore w:val="0"/>
+							<w:widowControl w:val="0"/>
+							<w:pBdr>
+								<w:top w:space="0" w:sz="0" w:val="nil"/>
+								<w:left w:space="0" w:sz="0" w:val="nil"/>
+								<w:bottom w:space="0" w:sz="0" w:val="nil"/>
+								<w:right w:space="0" w:sz="0" w:val="nil"/>
+								<w:between w:space="0" w:sz="0" w:val="nil"/>
+							</w:pBdr>
+							<w:shd w:fill="auto" w:val="clear"/>
+							<w:spacing w:after="0" w:before="0" w:line="240" w:lineRule="auto"/>
+							<w:ind w:left="0" w:right="0" w:firstLine="0"/>
+							<w:jc w:val="left"/>
+							<w:rPr/>
+						</w:pPr>
+						<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+							<w:rPr>
+								<w:rtl w:val="0"/>
+							</w:rPr>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:shd w:fill="auto" w:val="clear"/>
+						<w:tcMar>
+							<w:top w:w="100.0" w:type="dxa"/>
+							<w:left w:w="100.0" w:type="dxa"/>
+							<w:bottom w:w="100.0" w:type="dxa"/>
+							<w:right w:w="100.0" w:type="dxa"/>
+						</w:tcMar>
+						<w:vAlign w:val="top"/>
+					</w:tcPr>
+					<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="00000004">
+						<w:pPr>
+							<w:keepNext w:val="0"/>
+							<w:keepLines w:val="0"/>
+							<w:pageBreakBefore w:val="0"/>
+							<w:widowControl w:val="0"/>
+							<w:pBdr>
+								<w:top w:space="0" w:sz="0" w:val="nil"/>
+								<w:left w:space="0" w:sz="0" w:val="nil"/>
+								<w:bottom w:space="0" w:sz="0" w:val="nil"/>
+								<w:right w:space="0" w:sz="0" w:val="nil"/>
+								<w:between w:space="0" w:sz="0" w:val="nil"/>
+							</w:pBdr>
+							<w:shd w:fill="auto" w:val="clear"/>
+							<w:spacing w:after="0" w:before="0" w:line="240" w:lineRule="auto"/>
+							<w:ind w:left="0" w:right="0" w:firstLine="0"/>
+							<w:jc w:val="left"/>
+							<w:rPr/>
+						</w:pPr>
+						<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+							<w:rPr>
+								<w:rtl w:val="0"/>
+							</w:rPr>
+							<w:t xml:space="preserve">{!!2}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr>
+				<w:trPr>
+					<w:cantSplit w:val="0"/>
+					<w:tblHeader w:val="0"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:shd w:fill="auto" w:val="clear"/>
+						<w:tcMar>
+							<w:top w:w="100.0" w:type="dxa"/>
+							<w:left w:w="100.0" w:type="dxa"/>
+							<w:bottom w:w="100.0" w:type="dxa"/>
+							<w:right w:w="100.0" w:type="dxa"/>
+						</w:tcMar>
+						<w:vAlign w:val="top"/>
+					</w:tcPr>
+					<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="00000005">
+						<w:pPr>
+							<w:keepNext w:val="0"/>
+							<w:keepLines w:val="0"/>
+							<w:pageBreakBefore w:val="0"/>
+							<w:widowControl w:val="0"/>
+							<w:pBdr>
+								<w:top w:space="0" w:sz="0" w:val="nil"/>
+								<w:left w:space="0" w:sz="0" w:val="nil"/>
+								<w:bottom w:space="0" w:sz="0" w:val="nil"/>
+								<w:right w:space="0" w:sz="0" w:val="nil"/>
+								<w:between w:space="0" w:sz="0" w:val="nil"/>
+							</w:pBdr>
+							<w:shd w:fill="auto" w:val="clear"/>
+							<w:spacing w:after="0" w:before="0" w:line="240" w:lineRule="auto"/>
+							<w:ind w:left="0" w:right="0" w:firstLine="0"/>
+							<w:jc w:val="left"/>
+							<w:rPr/>
+						</w:pPr>
+						<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+							<w:rPr>
+								<w:rtl w:val="0"/>
+							</w:rPr>
+							<w:t xml:space="preserve">{!!3}</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="00000006">
+						<w:pPr>
+							<w:keepNext w:val="0"/>
+							<w:keepLines w:val="0"/>
+							<w:pageBreakBefore w:val="0"/>
+							<w:widowControl w:val="0"/>
+							<w:pBdr>
+								<w:top w:space="0" w:sz="0" w:val="nil"/>
+								<w:left w:space="0" w:sz="0" w:val="nil"/>
+								<w:bottom w:space="0" w:sz="0" w:val="nil"/>
+								<w:right w:space="0" w:sz="0" w:val="nil"/>
+								<w:between w:space="0" w:sz="0" w:val="nil"/>
+							</w:pBdr>
+							<w:shd w:fill="auto" w:val="clear"/>
+							<w:spacing w:after="0" w:before="0" w:line="240" w:lineRule="auto"/>
+							<w:ind w:left="0" w:right="0" w:firstLine="0"/>
+							<w:jc w:val="left"/>
+							<w:rPr/>
+						</w:pPr>
+						<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+							<w:rPr>
+								<w:rtl w:val="0"/>
+							</w:rPr>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:shd w:fill="auto" w:val="clear"/>
+						<w:tcMar>
+							<w:top w:w="100.0" w:type="dxa"/>
+							<w:left w:w="100.0" w:type="dxa"/>
+							<w:bottom w:w="100.0" w:type="dxa"/>
+							<w:right w:w="100.0" w:type="dxa"/>
+						</w:tcMar>
+						<w:vAlign w:val="top"/>
+					</w:tcPr>
+					<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="00000007">
+						<w:pPr>
+							<w:keepNext w:val="0"/>
+							<w:keepLines w:val="0"/>
+							<w:pageBreakBefore w:val="0"/>
+							<w:widowControl w:val="0"/>
+							<w:pBdr>
+								<w:top w:space="0" w:sz="0" w:val="nil"/>
+								<w:left w:space="0" w:sz="0" w:val="nil"/>
+								<w:bottom w:space="0" w:sz="0" w:val="nil"/>
+								<w:right w:space="0" w:sz="0" w:val="nil"/>
+								<w:between w:space="0" w:sz="0" w:val="nil"/>
+							</w:pBdr>
+							<w:shd w:fill="auto" w:val="clear"/>
+							<w:spacing w:after="0" w:before="0" w:line="240" w:lineRule="auto"/>
+							<w:ind w:left="0" w:right="0" w:firstLine="0"/>
+							<w:jc w:val="left"/>
+							<w:rPr/>
+						</w:pPr>
+						<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+							<w:rPr>
+								<w:rtl w:val="0"/>
+							</w:rPr>
+							<w:t xml:space="preserve">{!!4}</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="00000008">
+						<w:pPr>
+							<w:keepNext w:val="0"/>
+							<w:keepLines w:val="0"/>
+							<w:pageBreakBefore w:val="0"/>
+							<w:widowControl w:val="0"/>
+							<w:pBdr>
+								<w:top w:space="0" w:sz="0" w:val="nil"/>
+								<w:left w:space="0" w:sz="0" w:val="nil"/>
+								<w:bottom w:space="0" w:sz="0" w:val="nil"/>
+								<w:right w:space="0" w:sz="0" w:val="nil"/>
+								<w:between w:space="0" w:sz="0" w:val="nil"/>
+							</w:pBdr>
+							<w:shd w:fill="auto" w:val="clear"/>
+							<w:spacing w:after="0" w:before="0" w:line="240" w:lineRule="auto"/>
+							<w:ind w:left="0" w:right="0" w:firstLine="0"/>
+							<w:jc w:val="left"/>
+							<w:rPr/>
+						</w:pPr>
+						<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+							<w:rPr>
+								<w:rtl w:val="0"/>
+							</w:rPr>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="00000009">
+			<w:pPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+				<w:rPr/>
+				<mc:AlternateContent>
+					<mc:Choice Requires="wpg">
+						<w:drawing>
+							<wp:inline distB="114300" distT="114300" distL="114300" distR="114300">
+								<wp:extent cx="2466975" cy="2190750"/>
+								<wp:effectExtent b="0" l="0" r="0" t="0"/>
+								<wp:docPr id="1" name=""/>
+								<a:graphic>
+									<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+										<wps:wsp>
+											<wps:cNvSpPr/>
+											<wps:cNvPr id="2" name="Shape 2"/>
+											<wps:spPr>
+												<a:xfrm>
+													<a:off x="1951650" y="693475"/>
+													<a:ext cx="2447100" cy="2169600"/>
+												</a:xfrm>
+												<a:prstGeom prst="diamond">
+													<a:avLst/>
+												</a:prstGeom>
+												<a:solidFill>
+													<a:srgbClr val="CFE2F3"/>
+												</a:solidFill>
+												<a:ln cap="flat" cmpd="sng" w="9525">
+													<a:solidFill>
+														<a:srgbClr val="000000"/>
+													</a:solidFill>
+													<a:prstDash val="solid"/>
+													<a:round/>
+													<a:headEnd len="sm" w="sm" type="none"/>
+													<a:tailEnd len="sm" w="sm" type="none"/>
+												</a:ln>
+											</wps:spPr>
+											<wps:txbx>
+												<w:txbxContent>
+													<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000">
+														<w:pPr>
+															<w:spacing w:after="0" w:before="0" w:line="240"/>
+															<w:ind w:left="0" w:right="0" w:firstLine="0"/>
+															<w:jc w:val="center"/>
+															<w:textDirection w:val="btLr"/>
+														</w:pPr>
+														<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+															<w:rPr>
+																<w:rFonts w:ascii="Arial" w:cs="Arial" w:eastAsia="Arial" w:hAnsi="Arial"/>
+																<w:b w:val="0"/>
+																<w:i w:val="0"/>
+																<w:smallCaps w:val="0"/>
+																<w:strike w:val="0"/>
+																<w:color w:val="000000"/>
+																<w:sz w:val="28"/>
+																<w:vertAlign w:val="baseline"/>
+															</w:rPr>
+															<w:t xml:space="preserve">{!!Shape}</w:t>
+														</w:r>
+													</w:p>
+												</w:txbxContent>
+											</wps:txbx>
+											<wps:bodyPr anchorCtr="0" anchor="ctr" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+												<a:noAutofit/>
+											</wps:bodyPr>
+										</wps:wsp>
+									</a:graphicData>
+								</a:graphic>
+							</wp:inline>
+						</w:drawing>
+					</mc:Choice>
+					<mc:Fallback>
+						<w:drawing>
+							<wp:inline distB="114300" distT="114300" distL="114300" distR="114300">
+								<wp:extent cx="2466975" cy="2190750"/>
+								<wp:effectExtent b="0" l="0" r="0" t="0"/>
+								<wp:docPr id="1" name="image1.png"/>
+								<a:graphic>
+									<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+										<pic:pic>
+											<pic:nvPicPr>
+												<pic:cNvPr id="0" name="image1.png"/>
+												<pic:cNvPicPr preferRelativeResize="0"/>
+											</pic:nvPicPr>
+											<pic:blipFill>
+												<a:blip r:embed="rId6"/>
+												<a:srcRect/>
+												<a:stretch>
+													<a:fillRect/>
+												</a:stretch>
+											</pic:blipFill>
+											<pic:spPr>
+												<a:xfrm>
+													<a:off x="0" y="0"/>
+													<a:ext cx="2466975" cy="2190750"/>
+												</a:xfrm>
+												<a:prstGeom prst="rect"/>
+												<a:ln/>
+											</pic:spPr>
+										</pic:pic>
+									</a:graphicData>
+								</a:graphic>
+							</wp:inline>
+						</w:drawing>
+					</mc:Fallback>
+				</mc:AlternateContent>
+			</w:r>
+			<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+			</w:r>
+		</w:p>
+		<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="0000000A">
+			<w:pPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+				<w:rPr/>
+				<mc:AlternateContent>
+					<mc:Choice Requires="wpg">
+						<w:drawing>
+							<wp:inline distB="114300" distT="114300" distL="114300" distR="114300">
+								<wp:extent cx="5867400" cy="1409700"/>
+								<wp:effectExtent b="25400" l="25400" r="25400" t="25400"/>
+								<wp:docPr id="2" name=""/>
+								<a:graphic>
+									<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+										<wps:wsp>
+											<wps:cNvSpPr txBox="1"/>
+											<wps:cNvPr id="3" name="Shape 3"/>
+											<wps:spPr>
+												<a:xfrm>
+													<a:off x="2278575" y="1089750"/>
+													<a:ext cx="5844900" cy="1386900"/>
+												</a:xfrm>
+												<a:prstGeom prst="rect">
+													<a:avLst/>
+												</a:prstGeom>
+												<a:noFill/>
+												<a:ln>
+													<a:noFill/>
+												</a:ln>
+											</wps:spPr>
+											<wps:txbx>
+												<w:txbxContent>
+													<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000">
+														<w:pPr>
+															<w:spacing w:after="0" w:before="0" w:line="240"/>
+															<w:ind w:left="0" w:right="0" w:firstLine="0"/>
+															<w:jc w:val="left"/>
+															<w:textDirection w:val="btLr"/>
+														</w:pPr>
+														<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+															<w:rPr>
+																<w:rFonts w:ascii="Arial" w:cs="Arial" w:eastAsia="Arial" w:hAnsi="Arial"/>
+																<w:b w:val="0"/>
+																<w:i w:val="0"/>
+																<w:smallCaps w:val="0"/>
+																<w:strike w:val="0"/>
+																<w:color w:val="000000"/>
+																<w:sz w:val="28"/>
+																<w:vertAlign w:val="baseline"/>
+															</w:rPr>
+															<w:t xml:space="preserve">{!!Textbox}</w:t>
+														</w:r>
+													</w:p>
+												</w:txbxContent>
+											</wps:txbx>
+											<wps:bodyPr anchorCtr="0" anchor="t" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+												<a:noAutofit/>
+											</wps:bodyPr>
+										</wps:wsp>
+									</a:graphicData>
+								</a:graphic>
+							</wp:inline>
+						</w:drawing>
+					</mc:Choice>
+					<mc:Fallback>
+						<w:drawing>
+							<wp:inline distB="114300" distT="114300" distL="114300" distR="114300">
+								<wp:extent cx="5867400" cy="1409700"/>
+								<wp:effectExtent b="25400" l="25400" r="25400" t="25400"/>
+								<wp:docPr id="2" name="image2.png"/>
+								<a:graphic>
+									<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+										<pic:pic>
+											<pic:nvPicPr>
+												<pic:cNvPr id="0" name="image2.png"/>
+												<pic:cNvPicPr preferRelativeResize="0"/>
+											</pic:nvPicPr>
+											<pic:blipFill>
+												<a:blip r:embed="rId7"/>
+												<a:srcRect/>
+												<a:stretch>
+													<a:fillRect/>
+												</a:stretch>
+											</pic:blipFill>
+											<pic:spPr>
+												<a:xfrm>
+													<a:off x="0" y="0"/>
+													<a:ext cx="5867400" cy="1409700"/>
+												</a:xfrm>
+												<a:prstGeom prst="rect"/>
+												<a:ln w="25400">
+													<a:solidFill>
+														<a:srgbClr val="000000"/>
+													</a:solidFill>
+													<a:prstDash val="solid"/>
+												</a:ln>
+											</pic:spPr>
+										</pic:pic>
+									</a:graphicData>
+								</a:graphic>
+							</wp:inline>
+						</w:drawing>
+					</mc:Fallback>
+				</mc:AlternateContent>
+			</w:r>
+			<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+			</w:r>
+		</w:p>
+		<w:p w:rsidR="00000000" w:rsidDel="00000000" w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidRPr="00000000" w14:paraId="0000000B">
+			<w:pPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r w:rsidDel="00000000" w:rsidR="00000000" w:rsidRPr="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+			</w:r>
+		</w:p>
+		<w:sectPr>
+			<w:pgSz w:h="15840" w:w="12240" w:orient="portrait"/>
+			<w:pgMar w:bottom="1440" w:top="1440" w:left="1440" w:right="1440" w:header="720" w:footer="720"/>
+			<w:pgNumType w:start="1"/>
+		</w:sectPr>
+	</w:body>
+</xml-fragment>
